@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Pantallas\BuscarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\CompararEvaluaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\DetalleSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\ImpresionEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\PantallaConfirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\PantallaEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\PantallaPlanDeEntrenamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\RegistrarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\SelectorEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\VerUltimasSesiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
